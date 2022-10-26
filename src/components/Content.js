@@ -9,8 +9,8 @@ const Content = () => {
     <Box sx={{mt:8}}>
 <Stack direction="column" justifyContent="center" alignItems="center" spacing={2} >
 <Typography variant='h2' sx={{textAlign:"center"}}>Album layout</Typography>
- <Typography variant='h6' sx={{mt:8,textAlign:"center",width:'50%',color:'gray'}}>Something short and leading about the collection below-its contents,the creator,etc. Make it short and sweet,but not too short so folks don't simply skip over it entirely.</Typography>
- 
+ <Typography variant='h4' sx={{mt:8,textAlign:"center",width:'50%',color:'gray'}}>Something short and leading about the collection below-its contents,the creator,etc.</Typography>
+ <Typography variant='h6' sx={{textAlign:"center",width:'50%',color:'gray'}}> Make it short and sweet,but not too short so folks don't simply skip over it entirely.</Typography>
  </Stack>
 
 </Box>
